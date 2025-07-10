@@ -1,8 +1,8 @@
-Emotion Recognition with FER2013
+# Emotion Recognition with FER2013
 
 This project uses deep learning and computer vision to recognize human emotions in real time from facial expressions using the [FER2013](https://www.kaggle.com/datasets/msambare/fer2013) dataset.
 
-Project Overview
+## Project Overview
 
 - Built and trained a custom CNN model for emotion classification (7 classes)
 - Dataset: FER2013 (grayscale 48x48 facial images)
@@ -10,12 +10,13 @@ Project Overview
 - Face detection via Haar cascades
 - Final model achieves ~50–53% accuracy on validation data
 
-Notebooks
+## Notebooks
 
 - `data_loading_and_exploration.ipynb`: Class distribution, image samples, and average face visualization
 - `model_training.ipynb`: CNN model training with Keras, plotted training/validation curves
 - `real_time_detection.ipynb`: Live webcam demo with face detection and emotion classification
-Requirements
+
+## Requirements
 
 ```bash
 pip install opencv-python tensorflow matplotlib
