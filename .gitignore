@@ -1,0 +1,9 @@
+# Ignore dataset folders
+train/
+test/
+
+# Ignore other common files
+__pycache__/
+*.pyc
+*.h5
+*.ipynb_checkpoints
