@@ -8,7 +8,7 @@ Project Overview
 - Dataset: FER2013 (grayscale 48x48 facial images)
 - Real-time detection using webcam and OpenCV
 - Face detection via Haar cascades
-- Final model achieves ~47–50% accuracy on validation data
+- Final model achieves ~50–53% accuracy on validation data
 
 Notebooks
 
