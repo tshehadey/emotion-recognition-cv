@@ -22,7 +22,7 @@ This project uses deep learning and computer vision to recognize human emotions 
 pip install opencv-python tensorflow matplotlib
 
 
-How to Run
+## How to Run
 
 Clone the repo:
 
