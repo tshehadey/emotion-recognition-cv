@@ -21,7 +21,7 @@ real_time_detection.ipynb : Live webcam demo with face detection and emotion cla
 
 ## Requirements
 To install the required packages, run:
-pip install opencv-python tensorflow matplotlib
+pip install -r requirements.txt
 
 ## How to Run
 Clone the repo:
